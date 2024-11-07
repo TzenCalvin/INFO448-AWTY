@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AWTY</string>
+    <string name="minutes_message">How many minutes between each nag?</string>
+    <string name="phone_message">Which phone number do you want to send to?</string>
+    <string name="initial_message">What message do you want to send?</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
